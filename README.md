@@ -1,6 +1,4 @@
 # RealSailAway
-This is a game that is in development. This is the more realistic version of the game "Sail Away". I am adding so many new features to this game, and I am excited to build it. This will be a work in progress for a long time. Follow along with the development at Macondo Hack Club. :)
+This is a game that is completed! This is the more realistic version of the game "Sail Away". I am adding so many new features to this game, and I am excited to build it. This will be a work in progress for a long time. Follow along with the development at Macondo Hack Club. :)
 
-Current Features (Will Change):
-Custom movement script,
-Custom look script,
+This was a super fun project to make! It has so many new, fun features that I think make the game so much better. I added a somewhat weather system to the second island using particles. I really love that. I also created a wind effect on the 3rd island and fire on the first. I also added a kraken, which will steal your resources when you get too close. This is a way to make it harder, since I thought the game would be too easy. My favorite part is the shop. I added a booster pack (because I love trading card games), which features hand-drawn cards!! I also made everything look more realistic. I am sorry the files are too large to put on GitHub. There are apparently 37,335 files in the whole game; it probably could use some refactoring, but it actually works, so it's not getting touched. If you want to download the source of the game, you can find it here: 
