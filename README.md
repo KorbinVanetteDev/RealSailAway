@@ -19,7 +19,7 @@ This was a super fun project to make! I added a lot of new features that I think
 * Sail NEW Viking ships around the ocean
 * MASSIVE Island updates
 * Collect resources like wood, iron, cloth, and coins through trading card packs
-* Upgrade your ship so you can keep exploring
+* New upgrades to your ship so you can keep exploring
 * Imoroved Save System
 * Added the Kraken, which steals your resources if you get too close
 * New effects on the islands
